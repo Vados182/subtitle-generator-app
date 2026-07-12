@@ -6,7 +6,7 @@
 
 Aplikacja została stworzona, aby drastycznie skrócić czas potrzebny na tworzenie profesjonalnych napisów do materiałów wideo. Pozwala użytkownikom wgrać film, automatycznie wygenerować transkrypcję audio, przetłumaczyć ją na jeden z wielu obsługiwanych języków, ręcznie edytować tekst w interaktywnym edytorze i ostatecznie pobrać sam plik `.srt` lub gotowy film z wtopionymi ("hardcoded") napisami.
 
-**💡 Zobacz działającą aplikację: [[LINK DO DZIAŁAJĄCEJ APLIKACJI - np. na Streamlit Cloud]]**
+**💡 Zobacz działającą aplikację: [(https://subtitle-generator-app-o7rkxymdduw2aydy3q6p4e.streamlit.app/)]**
 
 ---
 
