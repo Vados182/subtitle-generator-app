@@ -1,0 +1,11 @@
+# Ukryte pliki systemowe i tymczasowe Pythona
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+# Wszelkie pliki multimedialne generowane podczas testów
+*.mp3
+*.mp4
+*.srt
+temp_*
+burned_*
